@@ -6555,14 +6555,14 @@
 ["P91","Combined, composite materials","P9"],
 ["P99","Other materials, undefined","P9"],
 ["Q","Universal Decimal Classification","uniclass"],
-["Q"-"","Antiquity BC","Q"],
-["Q"+"","Christian Era AD","Q"],
-["Q"03"","4th century (300s)","Q"],
-["Q"03/08"","4th to 9th Century","Q"],
-["Q"187/189"","1870 to 1899","Q"],
-["Q"19"","20th century (1900s)","Q"],
-["Q"1919/1939"","the 'inter-war' years","Q"],
-["Q"193"","the thirties (1930-1939)","Q"],
+["Q-","Antiquity BC","Q"],
+["Q+","Christian Era AD","Q"],
+["Q03","4th century (300s)","Q"],
+["Q03/08","4th to 9th Century","Q"],
+["Q187/189","1870 to 1899","Q"],
+["Q19","20th century (1900s)","Q"],
+["Q1919/1939","the 'inter-war' years","Q"],
+["Q193","the thirties (1930-1939)","Q"],
 ["Q(1)","Places in general","Q"],
 ["Q(2)","Physiographic designation","Q"],
 ["Q(3)","The ancient world","Q"],
@@ -6837,3 +6837,4 @@
 ["Z82","Readme","Z8"],
 ["Z83","External reference information","Z8"]
 ]
+
