@@ -1698,7 +1698,7 @@
 </DataEntry>
 <DataEntry number="Co_95" title="Temporary Complexes And Networks">
 </DataEntry>
-</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Co"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Co"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
 </Rule>
 <Rule>
 <Name>Ee</Name>
@@ -2398,7 +2398,7 @@
 </DataEntry>
 <DataEntry number="Ee_90" title="Soft Facility Management Elements">
 </DataEntry>
-</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ee"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ee"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
 </Rule>
 <Rule>
 <Name>EF</Name>
@@ -2612,7 +2612,7 @@
 <DataEntry number="EF_95_25" title="Dug Wells">
 </DataEntry>
 </DataEntry>
-</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - EF"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="EF"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
 </Rule>
 <Rule>
 <Name>En</Name>
@@ -3246,7 +3246,7 @@
 </DataEntry>
 <DataEntry number="En_95" title="Temporary Entities">
 </DataEntry>
-</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - En"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="En"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
 </Rule>
 <Rule>
 <Name>PP</Name>
@@ -3710,7 +3710,7 @@
 <DataEntry number="PP_95_10" title="Historical research ">
 </DataEntry>
 </DataEntry>
-</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - PP"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="PP"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
 </Rule>
 <Rule>
 <Name>Pr</Name>
@@ -9081,7 +9081,7 @@
 </DataEntry>
 <DataEntry number="Pr_90" title="Soft Facility Management Products">
 </DataEntry>
-</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Pr"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Pr"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
 </Rule>
 <Rule>
 <Name>Sp</Name>
@@ -10324,7 +10324,7 @@
 </DataEntry>
 <DataEntry number="Sp_95" title="Temporary Spaces">
 </DataEntry>
-</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Sp"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Sp"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
 </Rule>
 <Rule>
 <Name>Ss</Name>
@@ -12619,7 +12619,7 @@
 <DataEntry number="Ss_90_84" title="Specific Demand Of Aerospace Organizations">
 </DataEntry>
 </DataEntry>
-</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ss"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ss"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
 </Rule>
 <Rule>
 <Name>Zz</Name>
@@ -12819,6 +12819,6 @@
 <DataEntry number="Zz_90_70" title="Readme">
 </DataEntry>
 </DataEntry>
-</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Zz"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Zz"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
 </Rule>
 </Rules>
