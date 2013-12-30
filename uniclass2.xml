@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<open>
+<Rules Name="Uniclass2">
+<Rule>
+<Name>Ac</Name>
+<Description>Classifies construction works and spaces according to user activity or intended purpose based on Uniclass2 specifications.'Apply' creates a Classification Reference for selected IFC entity, using Uniclass2-required attributes derived from the item that you choose in the following list.</Description>
+<ApplicableTo><ClassName>IfcProject</ClassName><ClassName>IfcSpatialStructureElement</ClassName><ClassName>IfcGroup</ClassName><ClassName>IfcActor</ClassName><ClassName>IfcControl</ClassName><ClassName>IfcSpaceType</ClassName></ApplicableTo>
+<Data><DataDescriptors><DataDescriptor Variable="number" Title="Code" /><DataDescriptor Variable="title" Title="Description" /></DataDescriptors><DataEntries>
 <DataEntry number="Ac_20" title="Administrative, Commercial And Protective Service Activities">
 <DataEntry number="Ac_20_10" title="Legislative Activities">
 <DataEntry number="Ac_20_10_15" title="Council Activities"/>
@@ -1206,6 +1211,13 @@
 </DataEntry>
 <DataEntry number="Ac_95" title="Temporary Activities">
 </DataEntry>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</Rule>
+<Rule>
+<Name>Co</Name>
+<Description>Classifies construction works and spaces according to user activity or intended purpose based on Uniclass2 specifications.'Apply' creates a Classification Reference for selected IFC entity, using Uniclass2-required attributes derived from the item that you choose in the following list.</Description>
+<ApplicableTo><ClassName>IfcProject</ClassName><ClassName>IfcSpatialStructureElement</ClassName><ClassName>IfcGroup</ClassName><ClassName>IfcActor</ClassName><ClassName>IfcControl</ClassName><ClassName>IfcSpaceType</ClassName></ApplicableTo>
+<Data><DataDescriptors><DataDescriptor Variable="number" Title="Code" /><DataDescriptor Variable="title" Title="Description" /></DataDescriptors><DataEntries>
 <DataEntry number="Co_20" title="Administrative, Commercial And Protective Service Complexes">
 <DataEntry number="Co_20_10" title="Legislative Complexes">
 <DataEntry number="Co_20_10_10" title="International Legislative Complexes"/>
@@ -1686,6 +1698,13 @@
 </DataEntry>
 <DataEntry number="Co_95" title="Temporary Complexes And Networks">
 </DataEntry>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</Rule>
+<Rule>
+<Name>Ee</Name>
+<Description>Classifies construction works and spaces according to user activity or intended purpose based on Uniclass2 specifications.'Apply' creates a Classification Reference for selected IFC entity, using Uniclass2-required attributes derived from the item that you choose in the following list.</Description>
+<ApplicableTo><ClassName>IfcProject</ClassName><ClassName>IfcSpatialStructureElement</ClassName><ClassName>IfcGroup</ClassName><ClassName>IfcActor</ClassName><ClassName>IfcControl</ClassName><ClassName>IfcSpaceType</ClassName></ApplicableTo>
+<Data><DataDescriptors><DataDescriptor Variable="number" Title="Code" /><DataDescriptor Variable="title" Title="Description" /></DataDescriptors><DataEntries>
 <DataEntry number="Ee_15" title="Preparatory Elements">
 <DataEntry number="Ee_15_10" title="Utility Preparation">
 <DataEntry number="Ee_15_10_10" title="Utility Preparation"/>
@@ -2379,6 +2398,13 @@
 </DataEntry>
 <DataEntry number="Ee_90" title="Soft Facility Management Elements">
 </DataEntry>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</Rule>
+<Rule>
+<Name>EF</Name>
+<Description>Classifies construction works and spaces according to user activity or intended purpose based on Uniclass2 specifications.'Apply' creates a Classification Reference for selected IFC entity, using Uniclass2-required attributes derived from the item that you choose in the following list.</Description>
+<ApplicableTo><ClassName>IfcProject</ClassName><ClassName>IfcSpatialStructureElement</ClassName><ClassName>IfcGroup</ClassName><ClassName>IfcActor</ClassName><ClassName>IfcControl</ClassName><ClassName>IfcSpaceType</ClassName></ApplicableTo>
+<Data><DataDescriptors><DataDescriptor Variable="number" Title="Code" /><DataDescriptor Variable="title" Title="Description" /></DataDescriptors><DataEntries>
 <DataEntry number="EF_10" title="Bridges And Viaducts">
 <DataEntry number="EF_10_10" title="Arch Bridges">
 </DataEntry>
@@ -2586,6 +2612,13 @@
 <DataEntry number="EF_95_25" title="Dug Wells">
 </DataEntry>
 </DataEntry>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</Rule>
+<Rule>
+<Name>En</Name>
+<Description>Classifies construction works and spaces according to user activity or intended purpose based on Uniclass2 specifications.'Apply' creates a Classification Reference for selected IFC entity, using Uniclass2-required attributes derived from the item that you choose in the following list.</Description>
+<ApplicableTo><ClassName>IfcProject</ClassName><ClassName>IfcSpatialStructureElement</ClassName><ClassName>IfcGroup</ClassName><ClassName>IfcActor</ClassName><ClassName>IfcControl</ClassName><ClassName>IfcSpaceType</ClassName></ApplicableTo>
+<Data><DataDescriptors><DataDescriptor Variable="number" Title="Code" /><DataDescriptor Variable="title" Title="Description" /></DataDescriptors><DataEntries>
 <DataEntry number="En_20" title="Administrative, Commercial And Protective Service Entities">
 <DataEntry number="En_20_10" title="Legislative Entities">
 <DataEntry number="En_20_10_10" title="International Legislative Buildings"/>
@@ -3213,6 +3246,13 @@
 </DataEntry>
 <DataEntry number="En_95" title="Temporary Entities">
 </DataEntry>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</Rule>
+<Rule>
+<Name>PP</Name>
+<Description>Classifies construction works and spaces according to user activity or intended purpose based on Uniclass2 specifications.'Apply' creates a Classification Reference for selected IFC entity, using Uniclass2-required attributes derived from the item that you choose in the following list.</Description>
+<ApplicableTo><ClassName>IfcProject</ClassName><ClassName>IfcSpatialStructureElement</ClassName><ClassName>IfcGroup</ClassName><ClassName>IfcActor</ClassName><ClassName>IfcControl</ClassName><ClassName>IfcSpaceType</ClassName></ApplicableTo>
+<Data><DataDescriptors><DataDescriptor Variable="number" Title="Code" /><DataDescriptor Variable="title" Title="Description" /></DataDescriptors><DataEntries>
 <DataEntry number="PP_00" title="Not allocated ">
 </DataEntry>
 <DataEntry number="PP_05" title="Pre-project phase ">
@@ -3670,6 +3710,13 @@
 <DataEntry number="PP_95_10" title="Historical research ">
 </DataEntry>
 </DataEntry>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</Rule>
+<Rule>
+<Name>Pr</Name>
+<Description>Classifies construction works and spaces according to user activity or intended purpose based on Uniclass2 specifications.'Apply' creates a Classification Reference for selected IFC entity, using Uniclass2-required attributes derived from the item that you choose in the following list.</Description>
+<ApplicableTo><ClassName>IfcProject</ClassName><ClassName>IfcSpatialStructureElement</ClassName><ClassName>IfcGroup</ClassName><ClassName>IfcActor</ClassName><ClassName>IfcControl</ClassName><ClassName>IfcSpaceType</ClassName></ApplicableTo>
+<Data><DataDescriptors><DataDescriptor Variable="number" Title="Code" /><DataDescriptor Variable="title" Title="Description" /></DataDescriptors><DataEntries>
 <DataEntry number="Pr_15" title="Preparatory Products">
 <DataEntry number="Pr_15_21" title="Preparatory Products-tempxxx">
 <DataEntry number="Pr_15_21_13" title="Preparatory Products-tempxxx">
@@ -9034,6 +9081,13 @@
 </DataEntry>
 <DataEntry number="Pr_90" title="Soft Facility Management Products">
 </DataEntry>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</Rule>
+<Rule>
+<Name>Sp</Name>
+<Description>Classifies construction works and spaces according to user activity or intended purpose based on Uniclass2 specifications.'Apply' creates a Classification Reference for selected IFC entity, using Uniclass2-required attributes derived from the item that you choose in the following list.</Description>
+<ApplicableTo><ClassName>IfcProject</ClassName><ClassName>IfcSpatialStructureElement</ClassName><ClassName>IfcGroup</ClassName><ClassName>IfcActor</ClassName><ClassName>IfcControl</ClassName><ClassName>IfcSpaceType</ClassName></ApplicableTo>
+<Data><DataDescriptors><DataDescriptor Variable="number" Title="Code" /><DataDescriptor Variable="title" Title="Description" /></DataDescriptors><DataEntries>
 <DataEntry number="Sp_20" title="Administrative, Commercial And Protective Service Spaces">
 <DataEntry number="Sp_20_10" title="Legislative Spaces">
 <DataEntry number="Sp_20_10_15" title="Council Chambers"/>
@@ -10270,6 +10324,13 @@
 </DataEntry>
 <DataEntry number="Sp_95" title="Temporary Spaces">
 </DataEntry>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</Rule>
+<Rule>
+<Name>Ss</Name>
+<Description>Classifies construction works and spaces according to user activity or intended purpose based on Uniclass2 specifications.'Apply' creates a Classification Reference for selected IFC entity, using Uniclass2-required attributes derived from the item that you choose in the following list.</Description>
+<ApplicableTo><ClassName>IfcProject</ClassName><ClassName>IfcSpatialStructureElement</ClassName><ClassName>IfcGroup</ClassName><ClassName>IfcActor</ClassName><ClassName>IfcControl</ClassName><ClassName>IfcSpaceType</ClassName></ApplicableTo>
+<Data><DataDescriptors><DataDescriptor Variable="number" Title="Code" /><DataDescriptor Variable="title" Title="Description" /></DataDescriptors><DataEntries>
 <DataEntry number="Ss_15" title="Preparatory Systems">
 <DataEntry number="Ss_15_10" title="Preparation Systems">
 <DataEntry number="Ss_15_10_14" title="Cofferdam Systems"/>
@@ -12558,6 +12619,13 @@
 <DataEntry number="Ss_90_84" title="Specific Demand Of Aerospace Organizations">
 </DataEntry>
 </DataEntry>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</Rule>
+<Rule>
+<Name>Zz</Name>
+<Description>Classifies construction works and spaces according to user activity or intended purpose based on Uniclass2 specifications.'Apply' creates a Classification Reference for selected IFC entity, using Uniclass2-required attributes derived from the item that you choose in the following list.</Description>
+<ApplicableTo><ClassName>IfcProject</ClassName><ClassName>IfcSpatialStructureElement</ClassName><ClassName>IfcGroup</ClassName><ClassName>IfcActor</ClassName><ClassName>IfcControl</ClassName><ClassName>IfcSpaceType</ClassName></ApplicableTo>
+<Data><DataDescriptors><DataDescriptor Variable="number" Title="Code" /><DataDescriptor Variable="title" Title="Description" /></DataDescriptors><DataEntries>
 <DataEntry number="Zz_10" title="Title Sheet">
 <DataEntry number="Zz_10_20" title="Drawing Frame">
 <DataEntry number="Zz_10_20_45" title="Logo"/>
@@ -12751,4 +12819,6 @@
 <DataEntry number="Zz_90_70" title="Readme">
 </DataEntry>
 </DataEntry>
-</open>
+</DataEntries></Data><Script><CreateClassificationReference><IfcRelAssociatesClassification Name="Uniclass2 - Ac"><IfcClassificationReference Name="$title" ItemReference="$number" Location="www.cpic.org.uk"><IfcClassification Source="www.cpic.org.uk" Name="Uniclass2" Edition="Ac"><IfcCalendarDate DayComponent="30" MonthComponent="12" YearComponent="13"/> <!-- EditionDate --></IfcClassification></IfcClassificationReference></IfcRelAssociatesClassification></CreateClassificationReference></Script>
+</Rule>
+</Rules>
