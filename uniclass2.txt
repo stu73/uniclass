@@ -1,4 +1,5 @@
 Uniclass2.0	Uniclass2.0	1	-2000000
+Ac	Activities	2	-2000000
 Ac_20	"Administrative, Commercial And Protective Service Activities"	3	-2000000
 Ac_20_10	Legislative Activities	4	-2000000
 Ac_20_10_15	Council Activities	5	-2000000
@@ -1079,6 +1080,7 @@ Ac_90_85	Switching	4	-2000000
 Ac_90_90	Transformer Operating	4	-2000000
 Ac_90_96	Wall Services Routing	4	-2000000
 Ac_95	Temporary Activities	3	-2000000
+Co	Complexes	2	-2000000
 Co_20	"Administrative, Commercial And Protective Service Complexes"	3	-2000000
 Co_20_10	Legislative Complexes	4	-2000000
 Co_20_10_10	International Legislative Complexes	5	-2000000
@@ -1457,6 +1459,7 @@ Co_84_90_10	Aerospace Storage Complexes	5	-2000000
 Co_84_90_50	Aerospace Repair Complexes	5	-2000000
 Co_85	Process Engineering Complexes	3	-2000000
 Co_95	Temporary Complexes And Networks	3	-2000000
+Ee	Elements	2	-2000000
 Ee_15	Preparatory Elements	3	-2000000
 Ee_15_10	Utility Preparation	4	-2000000
 Ee_15_10_10	Utility Preparation	5	-2000000
@@ -2047,6 +2050,7 @@ Ee_80_95	Temporary Transport	4	-2000000
 Ee_85	Process Engineering Elements	3	-2000000
 Ee_85_95	Temporary Process Engineering	4	-2000000
 Ee_90	Soft Facility Management Elements	3	-2000000
+EF	Elements By Form	2	-2000000
 EF_10	Bridges And Viaducts	3	-2000000
 EF_10_10	Arch Bridges	4	-2000000
 EF_10_20	Cable Stayed Bridges	4	-2000000
@@ -2177,6 +2181,7 @@ EF_95	Wells	3	-2000000
 EF_95_10	Bored Wells	4	-2000000
 EF_95_20	Driven Wells	4	-2000000
 EF_95_25	Dug Wells	4	-2000000
+En	Entities	2	-2000000
 En_20	"Administrative, Commercial And Protective Service Entities"	3	-2000000
 En_20_10	Legislative Entities	4	-2000000
 En_20_10_10	International Legislative Buildings	5	-2000000
@@ -2704,11 +2709,12 @@ PP_00	Not allocated 	3	-2000000
 PP_05	Pre-project phase 	3	-2000000
 PP_05_10	Works programme development 	4	-2000000
 PP_05_10_10	Needs identification 	5	-2000000
+PP	Phases	2	-2000000
 PP_10	Feasibility phase 	3	-2000000
 PP_10_10	Feasibility mobilization mobilization	4	-2000000
-PP_10_10_10	In-house team establishment 	5	-2000000
+PP_10_10_10	In-house team establishment	5	-2000000
 PP_10_10_15	Subcontract team establishment	5	-2000000
-PP_10_10_20	Resources establishment 	5	-2000000
+PP_10_10_20	Resources establishment	5	-2000000
 PP_10_20	Feasibility execution	4	-2000000
 PP_10_20_10	Information gathering 	5	-2000000
 PP_10_20_15	Information analysis 	5	-2000000
@@ -3069,6 +3075,7 @@ PP_90_50	Closure completion 	4	-2000000
 PP_90_50_10	Data drop ﾖ archive documents 	5	-2000000
 PP_95	Post-project phase 	3	-2000000
 PP_95_10	Historical research 	4	-2000000
+Pr	Products	2	-2000000
 Pr_15	Preparatory Products	3	-2000000
 Pr_15_21	Preparatory Products-tempxxx	4	-2000000
 Pr_15_21_13	Preparatory Products-tempxxx	5	-2000000
@@ -8012,6 +8019,7 @@ Pr_85_51_87	Textile Milling Products	5	-2000000
 Pr_85_51_88	Timber Milling Products	5	-2000000
 Pr_85_73	Robotic Products	4	-2000000
 Pr_90	Soft Facility Management Products	3	-2000000
+Sp	Spaces	2	-2000000
 Sp_20	"Administrative, Commercial And Protective Service Spaces"	3	-2000000
 Sp_20_10	Legislative Spaces	4	-2000000
 Sp_20_10_15	Council Chambers	5	-2000000
@@ -9134,6 +9142,7 @@ Sp_90	General Spaces	3	-2000000
 Sp_90_10	General Circulation Spaces	4	-2000000
 Sp_90_90	Unoccupied Voids	4	-2000000
 Sp_95	Temporary Spaces	3	-2000000
+Ss	Systems	2	-2000000
 Ss_15	Preparatory Systems	3	-2000000
 Ss_15_10	Preparation Systems	4	-2000000
 Ss_15_10_14	Cofferdam Systems	5	-2000000
@@ -10966,6 +10975,7 @@ Ss_90_81	Specific Demand Of Road Organizations	4	-2000000
 Ss_90_82	Specific Demand Of Marine And Waterway Organizations	4	-2000000
 Ss_90_83	Specific Demand Of Cable Transport Organizations	4	-2000000
 Ss_90_84	Specific Demand Of Aerospace Organizations	4	-2000000
+Zz	CAD	2	-2000000
 Zz_10	Title Sheet	3	-2000000
 Zz_10_20	Drawing Frame	4	-2000000
 Zz_10_20_45	Logo	5	-2000000
