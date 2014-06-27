@@ -3,7 +3,7 @@ uniclass
 
 This is the public development release of Uniclass2, the UK construction classification system for use and feedback.
 
-For information or feedback please contact sarah@cpic.org.uk
+For information or feedback please contact info@cpic.org.uk
 
 This work has not been finalised by the CPIC Committee.
 
