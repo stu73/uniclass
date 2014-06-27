@@ -13,4 +13,4 @@ An online reference for this work can be found at:
 
 www.cpic.org.uk/uniclass2
 
-http://www.cpic.org.uk/uniclass/1-4/
+www.cpic.org.uk/uniclass/1-4/
