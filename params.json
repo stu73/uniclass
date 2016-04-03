@@ -1,1 +1,7 @@
-{"name":"Uniclass","tagline":"The CPI Uniclass Open Code Repository","body":"uniclass\r\n========\r\n\r\nThis is the public development release of Uniclass2, the UK construction classification system for use and feedback.\r\n\r\nFor information or feedback please contact sarah@cpic.org.uk\r\n\r\nThis work has not been finalised by the CPIC Committee.\r\n\r\nFor more information see: www.cpic.org.uk.\r\n\r\nAn online reference for this work can be found at: www.cpic.org.uk/uniclass2\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Uniclass",
+  "tagline": "The CPI Uniclass Open Code Repository",
+  "body": "uniclass\r\n========\r\n\r\nThis is the public development release of Uniclass2, the UK construction classification system for use and feedback.\r\n\r\nFor information or feedback please contact sarah@cpic.org.uk\r\n\r\nThis work has not been finalised by the CPIC Committee.\r\n\r\nFor more information see: www.cpic.org.uk.\r\n\r\nAn online reference for this work can be found at: www.cpic.org.uk/uniclass\r\n",
+  "google": "UA-75885977-1",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
