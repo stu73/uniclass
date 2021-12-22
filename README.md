@@ -1,9 +1,11 @@
 uniclass
 ========
 
-This is the public development release of Uniclass2, the UK construction classification system for use and feedback.
+This archive remains here as a legacy archive from CPIC.
 
-For information or feedback please contact info@cpic.org.uk
+For the newest and most up to date versions of Uniclass, see https://www.thenbs.com/our-tools/uniclass-2015
+
+This is the public development release of Uniclass2, the UK construction classification system for use and feedback.
 
 This work has not been finalised by the CPIC Committee.
 
